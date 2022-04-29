@@ -1,0 +1,27 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/dene/.arduino15/packages/esp32/hardware/esp32/1.0.5/cores/esp32"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/dene/.arduino15/packages/esp32/hardware/esp32/1.0.5/variants/esp32"
+  },
+  {
+    "Sourcefile": "/home/dene/projects/ESP32/sample/build/sketch/sample.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/dene/projects/ESP32/sample/build/sketch/ir_data.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/dene/projects/ESP32/sample/build/sketch/sample.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

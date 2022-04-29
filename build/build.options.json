@@ -1,0 +1,12 @@
+{
+  "additionalFiles": "..,..,..,..,..",
+  "builtInLibrariesFolders": "",
+  "builtInToolsFolders": "/usr/share/arduino/tools-builder,/home/dene/.arduino15/packages",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "build.path=/home/dene/projects/ESP32/sample/build,build.warn_data_percentage=75,runtime.tools.xtensa-esp32-elf-gcc.path=/home/dene/.arduino15/packages/esp32/tools/xtensa-esp32-elf-gcc/1.22.0-97-gc752ad5-5.2.0,runtime.tools.xtensa-esp32-elf-gcc-1.22.0-97-gc752ad5-5.2.0.path=/home/dene/.arduino15/packages/esp32/tools/xtensa-esp32-elf-gcc/1.22.0-97-gc752ad5-5.2.0,runtime.tools.esptool_py.path=/home/dene/.arduino15/packages/esp32/tools/esptool_py/3.0.0,runtime.tools.esptool_py-3.0.0.path=/home/dene/.arduino15/packages/esp32/tools/esptool_py/3.0.0,runtime.tools.mkspiffs.path=/home/dene/.arduino15/packages/esp32/tools/mkspiffs/0.2.3,runtime.tools.mkspiffs-0.2.3.path=/home/dene/.arduino15/packages/esp32/tools/mkspiffs/0.2.3",
+  "fqbn": "esp32:esp32:esp32:PSRAM=disabled,PartitionScheme=default,CPUFreq=240,FlashMode=qio,FlashFreq=80,FlashSize=4M,UploadSpeed=921600,DebugLevel=verbose",
+  "hardwareFolders": "/usr/share/arduino/hardware,/home/dene/.arduino15/packages",
+  "otherLibrariesFolders": "/home/dene/Arduino/libraries",
+  "runtime.ide.version": "10816",
+  "sketchLocation": "/home/dene/projects/ESP32/sample/src/sample/sample.ino"
+}
